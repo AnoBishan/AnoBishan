@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnoBishan
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning html,css
-- 💞️ I’m looking to collaborate on html
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python and debugging
+- 💞️ I’m looking to collaborate on ethical hacking
 - 📫 How to reach me 
 
 <!---
