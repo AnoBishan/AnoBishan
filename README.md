@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnoBishan
+- 👋 Hi, I’m @Bishan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and debugging
-- 💞️ I’m looking to collaborate on ethical hacking
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate on FULL STACK DEVELOPER
 - 📫 How to reach me 
 
 <!---
